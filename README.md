@@ -1,2 +1,4 @@
-# HackerRank-Python
-Python Solution With Problem Statement 
+# :memo: HackerRank-Python
+ ```python
+ HackerRank Python Solution With Problem Statement 
+```
